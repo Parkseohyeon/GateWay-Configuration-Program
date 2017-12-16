@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<jsmoothproject>
+<JVMSearchPath>registry</JVMSearchPath>
+<JVMSearchPath>javahome</JVMSearchPath>
+<JVMSearchPath>jrepath</JVMSearchPath>
+<JVMSearchPath>jdkpath</JVMSearchPath>
+<JVMSearchPath>exepath</JVMSearchPath>
+<JVMSearchPath>jview</JVMSearchPath>
+<arguments></arguments>
+<embeddedJar>true</embeddedJar>
+<executableName>Configuration.exe</executableName>
+<initialMemoryHeap>-1</initialMemoryHeap>
+<jarLocation>Configuration.jar</jarLocation>
+<mainClassName>Config.Configuration</mainClassName>
+<maximumMemoryHeap>-1</maximumMemoryHeap>
+<maximumVersion></maximumVersion>
+<minimumVersion>1.8</minimumVersion>
+<skeletonName>Windowed Wrapper</skeletonName>
+<skeletonProperties>
+<key>Message</key>
+<value>ÀÌ ÄÄÇ»ÅÍ¿¡¼­ ÀÚ¹Ù¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù. ´Ù¿î·Îµå¸¦ ¿øÇÏ½Ê´Ï±î?</value>
+</skeletonProperties>
+<skeletonProperties>
+<key>URL</key>
+<value>http://www.java.com</value>
+</skeletonProperties>
+<skeletonProperties>
+<key>SingleProcess</key>
+<value>1</value>
+</skeletonProperties>
+<skeletonProperties>
+<key>Debug</key>
+<value>0</value>
+</skeletonProperties>
+</jsmoothproject>
